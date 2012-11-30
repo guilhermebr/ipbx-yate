@@ -1,4 +1,4 @@
 ipbx
 ====
 
-IPBX addon using YATE (yate.null.ro)
+IPBX addon for YATE (yate.null.ro)
